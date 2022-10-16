@@ -40,20 +40,21 @@
     margin-bottom: 2rem;
   }
 
-  footer {
-    font-size: 1rem;
-    color: #333;
-  }
   pre {
-    padding: 3px;
+    padding: 1px 6px;
     display: inline;
     margin: 0;
-    background: #f3f3f3;
+    background: #ffb7a0;
     border-radius: 3px;
   }
 
   a {
     color: #ff3e00;
     text-decoration: inherit;
+  }
+
+  footer {
+    font-size: 1rem;
+    color: #333;
   }
 </style>
