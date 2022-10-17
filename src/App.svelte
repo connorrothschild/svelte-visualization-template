@@ -1,4 +1,7 @@
 <script>
+  import Example from "$components/Example.svelte";
+  import data from "$data/data.js";
+  console.log(data);
 </script>
 
 <main>
@@ -7,6 +10,7 @@
     Get started by deleting all of the contents in <pre>App.svelte</pre>
     🗑
   </h2>
+  <Example />
   <footer>
     For help, <a
       href="https://twitter.com/CL_Rothschild"
